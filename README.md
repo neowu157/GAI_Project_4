@@ -1,4 +1,4 @@
-# AI HW1
+# AI HW2
 README
 
 MY environment details
