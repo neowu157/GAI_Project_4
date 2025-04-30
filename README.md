@@ -1,15 +1,16 @@
 # AI HW1
 README
 
-Your environment details
+MY environment details
 4060TI 16G
 ubuntu 22.04
 
 
 
 how to run my test code 
+requirement.txt in zip
 
+part 1 : python3 task2.py 
 
-執行notebook cell
-在dataset那一行commment掉可以改變dataset
+part 2 : python3 task2.py 
 
