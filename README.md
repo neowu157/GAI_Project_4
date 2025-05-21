@@ -1,4 +1,4 @@
-# AI HW2
+# AI HW3
 README
 
 MY environment details
@@ -10,7 +10,8 @@ ubuntu 22.04
 how to run my test code 
 requirement.txt in zip
 
-part 1 : python3 task2.py 
+ run 1 :python test.py restaurant-data.txt 
+  
 
-part 2 : python3 task2.py 
+ run 2 : python main.py restaurant-data.txt "How good is the restaurant taco bell overall?" 
 
